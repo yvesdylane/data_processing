@@ -1,4 +1,4 @@
-🚢 Titanic Data Preprocessing & Modeling 🧑‍💻
+🚢 LAB 3 : Titanic Data Processing & Modeling 🧑‍💻
 
 Welcome to the Titanic Data Preprocessing & Modeling project! 🌊 
 This project showcases how to preprocess data, handle missing values, outliers, feature engineering, and build models like Logistic Regression and Random Forest! 🔥
